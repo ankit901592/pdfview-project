@@ -13,7 +13,8 @@ Error Handling
 UI/UX Design and Responsiveness
 Bonus Features
 Features
-Componentization:
+Componentization;
+
 
 The application utilizes well-defined React components that emphasize reusability and maintainability.
 Components are organized logically to keep the application scalable and easy to extend.
