@@ -18,7 +18,7 @@ const DetailedView = () => {
   console.log(data);
   console.log(id);
 
-  const pdf = data.find((item, index) => index == id);
+  const pdf = data.find((item, index) => index === id);
   console.log(pdf);
 
   if (!pdf) {
